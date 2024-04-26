@@ -1,0 +1,13 @@
+[package]
+name = "EXPR"
+version = "0.1.0"
+authors = ["Your Name <your.email@example.com>"]
+description = "Manipulate and transform Julia expressions like a pro. Provides tools for metaprogramming within Julia."
+license = "MIT"
+uuid = "a unique UUID for your package"  # Replace with actual UUID generated for this package
+
+[dependencies]
+Julia = "1.5"
+
+[compat]
+julia = "1.5"
